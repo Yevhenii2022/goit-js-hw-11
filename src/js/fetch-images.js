@@ -20,7 +20,6 @@ export class ImagesAPI {
       },
     });
 
-    console.log(response.data);
     return response.data;
   }
 }
