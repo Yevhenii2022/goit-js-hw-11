@@ -23,3 +23,6 @@ export class ImagesAPI {
     return response.data;
   }
 }
+
+// const win = open('', '', 'width=500,height=250');
+// win.document.body.innerHTML = createCountryDetailsMarkup(...);
